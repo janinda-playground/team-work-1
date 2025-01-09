@@ -8,7 +8,7 @@
 - Lahiru Sandhamal
 
 ### Version
-0.2.0
+0.8.0
 
 ### License
 Copyright &copy; 2025 DEP13. All Rights Reserved.  
